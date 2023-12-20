@@ -3,7 +3,7 @@
 		"date": "03-14-2022",
 		"title": "Started Dojofans",
 		"description": "A place to share what I've learned in AI development",
-		"icon": "feather:head-side-brain",
+		"icon": "feather:brain",
 		"link": {
 			"text": "Visit Dojofans on Youtube",
 			"url": "https://youtube.com/@dojofans"
@@ -19,7 +19,7 @@
 		"date": "03-15-2021",
 		"title": "Started Dojos",
 		"description": "Created a service for helping people take the first step into self-hosted open-source technology",
-		"icon": "feather:computer",
+		"icon": "feather:house",
 		"link": {
 			"text": "Visit Dojos",
 			"url": "https://home.workdojos.com/"
@@ -29,7 +29,7 @@
 		"date": "11-16-2020",
 		"title": "Started Workmates",
 		"description": "A community for self-hosters, open-source enthusiasts, AI developers, and more",
-		"icon": "feather:hashtag",
+		"icon": "feather:person",
 		"link": {
 			"text": "Visit Workmates",
 			"url": "https://workmates.live/"
