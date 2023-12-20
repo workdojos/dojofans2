@@ -18,6 +18,12 @@ const Event = dynamic<EventProps>(
 const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
+		href: 'https://home.workdojos.com',
+		icon: <Icon className="mr-3" icon="feather:edit-3" />,
+		text: 'Dojos',
+	},
+	{
+		type: NavigationItemType.LINK,
 		href: '/blog',
 		icon: <Icon className="mr-3" icon="feather:edit-3" />,
 		text: 'Blog',
@@ -38,9 +44,9 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		external: true,
-		href: 'mailto:admin@workmates.live',
+		href: 'https://home.workdojos.com/#contact',
 		icon: <Icon className="mr-3" icon="feather:github" />,
-		text: 'Free AI consultation',
+		text: 'Contact / Free AI consultation',
 	},
 ];
 
