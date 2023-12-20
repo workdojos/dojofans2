@@ -35,6 +35,13 @@ const ACTIONS: Array<NavigationItem> = [
 		icon: <Icon className="mr-3" icon="feather:github" />,
 		text: 'GitHub',
 	},
+	{
+		type: NavigationItemType.LINK,
+		external: true,
+		href: 'mailto:admin@workmates.live',
+		icon: <Icon className="mr-3" icon="feather:github" />,
+		text: 'Free AI consultation',
+	},
 ];
 
 export default function HomePage(): JSX.Element {
