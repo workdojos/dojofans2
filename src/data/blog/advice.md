@@ -1,6 +1,6 @@
 ---
 banner_alt: person using laptop
-banner: https://unsplash.com/photos/person-using-laptop-FlPc9_VocJ4
+banner: /blog/advice/advice.jpg
 title: advice for AI developers
 description: Advice for AI developers
 date: '2023-12-31'
