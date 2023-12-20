@@ -1,7 +1,7 @@
 ---
 banner: /blog/challenges/challenges.jpg
 title: Challenges for AI developers
-description: Challenges in chatbot development
+description: Challenges in the industry
 date: '2023-05-31'
 ---
 

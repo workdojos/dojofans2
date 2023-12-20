@@ -1,5 +1,5 @@
 ---
-banner: /blog//rights/rights.jpg
+banner: /blog/rights/rights.jpg
 title: Rights for AI developers
 description: Rights as an AI developer
 date: '2021-12-21'

@@ -1,7 +1,7 @@
 ---
 banner_alt: person using laptop
 banner: /blog/advice/advice.jpg
-title: Advice for AI developers
+title: Advice for those looking to start a career in AI and the chatbot industry
 description: Advice for AI developers
 date: '2023-12-24'
 ---

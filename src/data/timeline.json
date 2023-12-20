@@ -1,6 +1,6 @@
 [
 	{
-		"date": "03-14-2022",
+		"date": "12-14-2023",
 		"title": "Started Dojofans",
 		"description": "A place to share what I've learned in AI development",
 		"icon": "feather:brain",
@@ -10,13 +10,13 @@
 		}
 	},
 	{
-		"date": "10-22-2021",
+		"date": "10-22-2023",
 		"title": "Created Dojofans AI engine",
 		"description": "An end-to-end process for AI content generation, image generation, text-to-speech, voice-cloning, and animation",
 		"icon": "feather:star"
 	},
 	{
-		"date": "03-15-2021",
+		"date": "03-15-2022",
 		"title": "Started Dojos",
 		"description": "Created a service for helping people take the first step into self-hosted open-source technology",
 		"icon": "feather:house",
@@ -26,7 +26,7 @@
 		}
 	},
 	{
-		"date": "11-16-2020",
+		"date": "11-16-2021",
 		"title": "Started Workmates",
 		"description": "A community for self-hosters, open-source enthusiasts, AI developers, and more",
 		"icon": "feather:person",
@@ -36,13 +36,13 @@
 		}
 	},
 	{
-		"date": "07-15-2020",
+		"date": "07-15-2021",
 		"title": "Learning React and Next.js",
 		"description": "Created a number of websites using React and Next.js",
 		"icon": "feather:award"
 	},
 	{
-		"date": "10-11-2018",
+		"date": "12-11-2020",
 		"title": "Started Dojos channel",
 		"description": "Started dabbling in video editing using Davinci Resolve",
 		"icon": "feather:video",

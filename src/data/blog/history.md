@@ -1,7 +1,7 @@
 ---
 banner: /blog/history/history.jpg
-title: History of AI developers
-description: History of chatbot development
+title: About the word chatbot
+description: Etymology and history
 date: '2022-11-30'
 ---
 
