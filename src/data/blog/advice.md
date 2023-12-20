@@ -1,9 +1,10 @@
 ---
-title: advice for AI developers
+banner_alt: person using laptop
 banner: https://unsplash.com/photos/person-using-laptop-FlPc9_VocJ4
+title: advice for AI developers
 description: Advice for AI developers
+date: '2023-12-31'
 ---
-
 First, let's start by discussing your skills and interests. What specific skills do you have that could be relevant to a career in the chatbot industry? What about your interests? Do you enjoy working with technology or customer service? Do you have a background in programming or artificial intelligence?
 
 Based on your skills and interests, it seems that a career in the chatbot industry could be a good fit for you. Chatbots are increasingly being used in customer service, sales, and marketing roles, so having a strong background in technology and customer service could be beneficial.
