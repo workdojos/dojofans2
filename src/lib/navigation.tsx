@@ -23,21 +23,9 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 		},
 		{
 			type: NavigationItemType.LINK,
-			icon: 'feather:copy',
-			text: 'Projects',
-			href: '/projects',
-		},
-		{
-			type: NavigationItemType.LINK,
 			icon: 'feather:clock',
 			text: 'Timeline',
 			href: '/timeline',
-		},
-		{
-			type: NavigationItemType.LINK,
-			icon: 'feather:link',
-			text: 'Referrals',
-			href: '/referrals',
 		},
 	],
 	[
@@ -45,14 +33,14 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			type: NavigationItemType.LINK,
 			icon: 'feather:twitter',
 			text: 'Twitter',
-			href: 'https://twitter.com/nurodev',
+			href: 'https://twitter.com/workdojos',
 			external: true,
 		},
 		{
 			type: NavigationItemType.LINK,
 			icon: 'feather:github',
 			text: 'GitHub',
-			href: 'https://github.com/nurodev',
+			href: 'https://github.com/workdojos',
 			external: true,
 		},
 	],
