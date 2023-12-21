@@ -19,30 +19,12 @@ const Event = dynamic<EventProps>(
 );
 
 const ACTIONS: Array<NavigationItem> = [
-	{
-		type: NavigationItemType.LINK,
-		href: 'https://home.workdojos.com',
-		icon: <Icon className="mr-3" icon="feather:edit-3" />,
-		text: 'Dojos',
-	},
-	{
-		type: NavigationItemType.LINK,
-		href: '/blog',
-		icon: <Icon className="mr-3" icon="feather:edit-3" />,
-		text: 'Blog',
-	},
+
 	{
 		type: NavigationItemType.LINK,
 		href: 'https://youtube.com/@dojofans',
 		icon: <Icon className="mr-3" icon="feather:copy" />,
 		text: 'Youtube',
-	},
-	{
-		type: NavigationItemType.LINK,
-		external: true,
-		href: 'https://github.com/workdojos',
-		icon: <Icon className="mr-3" icon="feather:github" />,
-		text: 'GitHub',
 	},
 	{
 		type: NavigationItemType.LINK,
@@ -74,7 +56,7 @@ export default function HomePage(): JSX.Element {
 						}}
 						className="text-gray-500 dark:text-white text-5xl sm:text-6xl md:text-6xl lg:text-8xl tracking-tight font-extrabold">
 						Hey <span className="inline-block origin-70 hover:(animate-wave)">👋</span>{' '}
-						Welcome to<br className="hidden sm:block" />{' '}
+						<br className="hidden sm:block" />{' '}
 						<Pill.Standard className="mt-4">Dojofans</Pill.Standard>
 					</Animate>
 
