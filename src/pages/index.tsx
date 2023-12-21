@@ -9,7 +9,7 @@ import type { EventProps } from '~/components/Event.component';
 import type { NavigationItem } from '~/types';
 
 import Image from 'next/image';
-import myGif from 'url'
+
 
 <Image src={myGif} alt="dojofans.gif" height={500} width={500} />
 
@@ -51,7 +51,7 @@ const ACTIONS: Array<NavigationItem> = [
 		external: true,
 		href: 'https://home.workdojos.com/#contact',
 		icon: <Icon className="mr-3" icon="feather:github" />,
-		text: 'Contact Me',
+		text: 'Contact',
 	},
 ];
 
@@ -61,7 +61,7 @@ export default function HomePage(): JSX.Element {
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
-	const description = `See some of my work with AI, including content creation, image generation, text-to-speech, voice-cloning, and the latest in AI animation and motion graphics`;
+	const description = `I like AI content creation, image generation, text-to-speech, and video animation.  Reach out for help!`;
 
 	return (
 		<Layout.Default>
