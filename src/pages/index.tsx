@@ -8,6 +8,11 @@ import { Layout } from '~/layouts';
 import type { EventProps } from '~/components/Event.component';
 import type { NavigationItem } from '~/types';
 
+import Image from 'next/image';
+import myGif from 'url'
+
+<Image src={myGif} alt="dojofans.gif" height={500} width={500} />
+
 const Event = dynamic<EventProps>(
 	() => import('~/components/Event.component').then(({ Event }) => Event),
 	{
@@ -46,7 +51,7 @@ const ACTIONS: Array<NavigationItem> = [
 		external: true,
 		href: 'https://home.workdojos.com/#contact',
 		icon: <Icon className="mr-3" icon="feather:github" />,
-		text: 'Contact / Free AI consultation',
+		text: 'Contact Me',
 	},
 ];
 
@@ -115,4 +120,5 @@ export default function HomePage(): JSX.Element {
 			</div>
 		</Layout.Default>
 	);
+
 }

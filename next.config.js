@@ -34,6 +34,10 @@ const config = {
 			// Unsplash
 			'source.unsplash.com',
 			'images.unsplash.com',
+
+			// Workmates
+			'workmates.live',
+
 		],
 	},
 	// Inspired by: https://github.com/leerob/leerob.io/blob/main/next.config.js#L44-L81
