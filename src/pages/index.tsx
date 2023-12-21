@@ -11,8 +11,6 @@ import type { NavigationItem } from '~/types';
 import Image from 'next/image';
 
 
-<Image src={myGif} alt="dojofans.gif" height={500} width={500} />
-
 const Event = dynamic<EventProps>(
 	() => import('~/components/Event.component').then(({ Event }) => Event),
 	{
