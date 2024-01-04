@@ -20,8 +20,8 @@ type StandardProps =
 	| ({
 			type: NavigationItemType.LINK;
 			href: string;
-			target="_blank"
-			rel="noreferrer noopener"
+			target=_blank;
+			rel=noreferrer noopener;
 			external?: boolean;
 	  } & DefaultProps);
 
