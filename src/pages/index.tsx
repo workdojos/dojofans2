@@ -23,7 +23,8 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		external: true,
-		href: 'https://youtube.com/@dojofans" rel="noopener noreferrer',
+		href: 'https://youtube.com/@dojofans' '_blank',
+		target: '_blank',
 		icon: <Icon className="mr-3" icon="feather:copy" />,
 		text: 'Youtube',
 	},
@@ -42,7 +43,7 @@ export default function HomePage(): JSX.Element {
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
-	const description = `I like AI content creation, image generation, text-to-speech, and video animation.  Reach out for help!`;
+	const description = `AI content creation, image generation, text-to-speech, and video animation.  Reach out for help!`;
 
 	return (
 		<Layout.Default>
