@@ -23,7 +23,8 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		external: true,
-		href: 'https://youtube.com/@dojofans' target="_blank" rel="noreferrer",
+
+		href: 'https://youtube.com/@dojofans', '_blank', 'noopener,noreferrer',
 		icon: <Icon className="mr-3" icon="feather:copy" />,
 		text: 'Youtube',
 	},
