@@ -35,7 +35,7 @@ export default function HomePage(): JSX.Element {
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
-	const description = `Free AI consulting for content creation, image generation, text-to-speech, and video animation.  Reach out for help!`;
+	const description = `We are here to help you reign in free and open-source AI (including content creation, image generation, text-to-speech, and video animation).  Reach out for help!`;
 
 	return (
 		<Layout.Default>
