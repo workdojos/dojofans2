@@ -23,14 +23,6 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		external: true,
-
-		href: 'https://youtube.com/@dojofans',
-		icon: <Icon className="mr-3" icon="feather:copy" />,
-		text: 'Youtube',
-	},
-	{
-		type: NavigationItemType.LINK,
-		external: true,
 		href: 'https://home.workdojos.com/#contact',
 		icon: <Icon className="mr-3" icon="feather:github" />,
 		text: 'Contact',
