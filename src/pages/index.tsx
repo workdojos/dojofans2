@@ -35,7 +35,7 @@ export default function HomePage(): JSX.Element {
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
-	const description = `Spin up landing pages like this for free (with cool clicky sounds to boot!).  Contact us with questions or to get your own customized for free.`;
+	const description = `Spin up websites like this for free (built in React).  Sign up to get one customized for free.`;
 
 	return (
 		<Layout.Default>
